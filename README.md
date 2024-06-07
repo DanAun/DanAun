@@ -1,4 +1,4 @@
-# Hi, my name is Daniel Aunan! 👋
+# Hi, I'm Daniel Aunan! 👋
 
 I'm currently a 5th year student at INSA Toulouse, where I'm pursuing my degree in Computer Science with a specialization in cybersecurity. My academic journey has provided me with a solid foundation in various aspects of computer science, and my specialization has honed my skills in protecting systems and data from cyber threats. I have always been fascinated by the ever-evolving world of technology and the critical role cybersecurity plays in it.
 
